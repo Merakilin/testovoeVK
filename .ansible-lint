@@ -1,0 +1,9 @@
+---
+skip_list:
+  - fqcn-builtins
+  - var-naming  
+  - yaml-line-length
+warn_list:
+  - no-changed-when
+  - command-instead-of-module
+  - name[casing]
